@@ -1,0 +1,27 @@
+# venv
+bank_mkt_venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Data (usually too large for git)
+data/
+*.csv
+*.parquet
+
+# Models
+*.pkl
+*.joblib
+
+# OS
+.DS_Store
+Thumbs.db

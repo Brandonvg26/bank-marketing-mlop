@@ -1,0 +1,15 @@
+scikit-learn==1.5.2
+mlflow==2.16.2
+fastapi==0.111.1
+pydantic==2.7.4
+uvicorn==0.30.6
+evidently==0.4.33
+pandas==2.2.3
+numpy==1.26.4
+imbalanced-learn==0.12.3
+requests==2.32.3
+jupyter==1.1.1
+ipykernel==6.29.5
+matplotlib==3.9.2
+seaborn==0.13.2
+
